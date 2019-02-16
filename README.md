@@ -36,7 +36,7 @@ CrystalLightingVis.javaおよびtester.jarはコンテスト運営より配布�
 ## ビジュアライザの使いかた
 ディレクトリをローカルにコピーし、ディレクトリ内でコマンド
 
-java -jar tester.jar -exec "./CrystalLighting.exe" -seed &lt seed &gt
+<div> java -jar tester.jar -exec "./CrystalLighting.exe" -seed <seed> </div>
 
 を実行すると、任意のseed値で生成された問題に対する解を確認することができます。seed : 1などは比較的小さい盤面のため、見やすくおすすめになります。大きい盤面ではseed : 4などは横長なのでこれも見やすいです。
 
